@@ -6,7 +6,6 @@ body {
 }
 
 input[type="text"],
-select,
 textarea {
   width: 100%;
   padding: 12px;
@@ -27,20 +26,20 @@ table {
   font-size: 12px;
 }
 input[type="submit"] {
-  background-color: #ff2e4a;
+  background-color:#FF1759;
   color: white;
   padding: 12px 20px;
   border: none;
   border-radius: 30px;
   cursor: pointer;
-  padding: 6px 20px;
+  padding: 8px 20px;
   margin-left: 15px;
   margin-top: 20px;
 
 }
 
 input[type="submit"]:hover {
-  background-color: #ff2e4a;
+  background-color: #FF1759;
 }
 
 .container {
@@ -50,7 +49,7 @@ input[type="submit"]:hover {
   background-color: white;
   padding: 20px;
   width: 600px;
-  height: 520px;
+  height: 480px;
   -webkit-box-shadow: 1px 0px 27px 0px rgba(50, 50, 50, 0.83);
   -moz-box-shadow: 1px 0px 27px 0px rgba(50, 50, 50, 0.83);
   box-shadow: 1px 0px 27px 0px rgba(50, 50, 50, 0.83);
@@ -75,6 +74,7 @@ span {
   display: inline;
 }
 
-td{
-    padding: 5px 15px 5px 15px;
+td {
+    padding: 0px 15px 0px 15px;
 }
+
